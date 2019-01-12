@@ -2,7 +2,7 @@
 There are two core parts (UserManagement(Members), Token(OreOreCoin))
 
 # Notice
-<hr>
+
 When 'OreOreCoin' contract is issued, we had to issued Members contract and then address of Memebers contract should be given in 
 parameter
 The 'updateHistory' function is specified modifier. it means that Token contract has authentication to execcute. not remainder.
